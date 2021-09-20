@@ -1,0 +1,120 @@
+.TodoApp {
+  min-height: 100vh;
+  background-image: url(https://wallpaperaccess.com/full/340597.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-title {
+  font-size: 80px;
+  color: wheat;
+}
+
+.list-group {
+  list-style: none;
+}
+
+.input-group #todo-input::placeholder {
+  color: white;
+  opacity: 0.7;
+}
+
+.input-group .form-control {
+  background: transparent;
+  border-radius: 0px;
+  border: 0px;
+  border-bottom: 1px solid white;
+  font-size: 28px;
+  color: white;
+  padding: 0;
+}
+
+.list-group .form-control {
+  background: transparent;
+  border-radius: 0px;
+  border: 0px;
+  font-size: 24px;
+  color: white;
+  padding: 0;
+  width: 85%;
+  display: inline;
+}
+
+.list-group-item {
+  background: transparent;
+  color: white;
+  font-size: 24px;
+  border: 1px solid rgb(255, 255, 255, 0.3);
+  padding: 0 1.25rem;
+}
+
+.list-group-item .form-inline {
+  margin: 28px 0;
+}
+
+.list-group-item input[type="text"] {
+  cursor: pointer;
+  height: 88px;
+}
+
+.list-group-item input[type="text"]:hover {
+  opacity: 0.6;
+}
+
+input[type="text"]:focus {
+  box-shadow: none;
+}
+
+.btn-del {
+  padding: 4px 16px;
+  border-radius: 8px;
+}
+
+.todolist .pagination .page-item {
+  cursor: pointer;
+}
+li i {
+  cursor: pointer;
+}
+
+.checked {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+.form-inline .markstar {
+  color: white;
+}
+
+.footer {
+  background-color: blanchedalmond;
+  padding: 8px 24px;
+}
+.footer a {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.footer__checkall {
+  color: mediumblue;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 4px 0;
+}
+.footer-text {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 4px;
+}
+.footer__deleteall {
+  font-weight: bold;
+  padding: 4px 0;
+  font-size: 18px;
+}
+.footer-del {
+  color: red;
+}
+.footer-del:hover {
+  color: rgb(206, 0, 0);
+  opacity: 0.7;
+}
