@@ -114,6 +114,14 @@ export const deleteAll = () => {
   };
 };
 
+export const deleteAllRequest = () => {
+  return (dispatch) => {
+    return callApi("todo", "DELETE", null).then((res) => {
+      dispatch(deleteAll());
+    });
+  };
+};
+
 export const actFetchTodo = (todos) => {
   return {
     type: type.FETCH_TODO,
