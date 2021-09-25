@@ -1,0 +1,5 @@
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todos.DB.csproj.AssemblyReference.cache
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todos.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todos.DB.AssemblyInfoInputs.cache
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todos.DB.AssemblyInfo.cs
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todos.DB.csproj.CoreCompileInputs.cache

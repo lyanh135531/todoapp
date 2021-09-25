@@ -1,0 +1,16 @@
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.csproj.AssemblyReference.cache
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.AssemblyInfoInputs.cache
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.AssemblyInfo.cs
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.csproj.CoreCompileInputs.cache
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.Core.deps.json
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.Core.dll
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.Core.pdb
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.DB.dll
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.DB.pdb
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.csproj.CopyComplete
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.dll
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.pdb
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.Core.runtimeconfig.json
+D:\ProjectTodo\WebAPITodo\Todo.Core\bin\Debug\netcoreapp3.1\Todo.Core.runtimeconfig.dev.json
+D:\ProjectTodo\WebAPITodo\Todo.Core\obj\Debug\netcoreapp3.1\Todo.Core.genruntimeconfig.cache

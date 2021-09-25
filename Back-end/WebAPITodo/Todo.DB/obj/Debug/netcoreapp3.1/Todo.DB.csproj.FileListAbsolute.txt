@@ -1,0 +1,13 @@
+D:\ProjectTodo\WebAPITodo\Todo.DB\bin\Debug\netcoreapp3.1\Todo.DB.deps.json
+D:\ProjectTodo\WebAPITodo\Todo.DB\bin\Debug\netcoreapp3.1\Todo.DB.runtimeconfig.json
+D:\ProjectTodo\WebAPITodo\Todo.DB\bin\Debug\netcoreapp3.1\Todo.DB.runtimeconfig.dev.json
+D:\ProjectTodo\WebAPITodo\Todo.DB\bin\Debug\netcoreapp3.1\Todo.DB.dll
+D:\ProjectTodo\WebAPITodo\Todo.DB\bin\Debug\netcoreapp3.1\Todo.DB.pdb
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.csproj.AssemblyReference.cache
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.AssemblyInfoInputs.cache
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.AssemblyInfo.cs
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.csproj.CoreCompileInputs.cache
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.dll
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.pdb
+D:\ProjectTodo\WebAPITodo\Todo.DB\obj\Debug\netcoreapp3.1\Todo.DB.genruntimeconfig.cache
